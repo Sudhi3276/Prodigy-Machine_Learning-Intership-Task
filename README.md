@@ -2,7 +2,7 @@
 During my Prodigy-Infotech internship, I completed 5 tasks utilizing powerful Python libraries. I learned to handle data manipulation with Pandas, perform numerical operations with NumPy, create machine learning models with Keras.
 
 
-Task-01: Implement a Linear Regression Model to Predict House Prices
+# Task-01: Implement a Linear Regression Model to Predict House Prices
 Objective:
 Develop a linear regression model to predict house prices based on square footage and the number of bedrooms and bathrooms.
 
@@ -18,7 +18,7 @@ Feature Engineering: Selected key features including square footage, number of b
 Model Development: Implemented a linear regression model using Python libraries.
 Evaluation: Assessed the model’s performance using metrics like Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
 
-Task-02: Create a K-means Clustering Algorithm to Group Retail Store Customers
+# Task-02: Create a K-means Clustering Algorithm to Group Retail Store Customers
 Objective:
 Develop a K-means clustering algorithm to group customers based on their purchase history.
 
@@ -34,7 +34,7 @@ Feature Selection: Identified key features relevant to customer segmentation, su
 Model Development: Implemented the K-means clustering algorithm to group customers.
 Evaluation: Visualized clusters and analyzed their characteristics to ensure meaningful groupings.
 
-Task-03: Implement a Support Vector Machine (SVM) to Classify Images of Cats and Dogs
+# Task-03: Implement a Support Vector Machine (SVM) to Classify Images of Cats and Dogs
 Objective:
 Develop an SVM model to classify images of cats and dogs.
 
@@ -51,7 +51,7 @@ Model Development: Implemented the SVM algorithm for binary classification.
 Evaluation: Assessed the model’s performance using metrics like accuracy, precision, recall, and F1-score.
 
 
-Task-04: Develop a Hand Gesture Recognition Model
+# Task-04: Develop a Hand Gesture Recognition Model
 Objective:
 Create a model to accurately identify and classify different hand gestures from image or video data for intuitive human-computer interaction and gesture-based control systems.
 
@@ -68,7 +68,7 @@ Training and Evaluation: Trained the model and evaluated its performance using a
 Application: Demonstrated the model's capability in recognizing and classifying various hand gestures for effective gesture-based control systems.
 
 
-Task-05: Develop a Model to Recognize Food Items and Estimate Calorie Content
+# Task-05: Develop a Model to Recognize Food Items and Estimate Calorie Content
 Objective:
 Create a model to accurately recognize food items from images and estimate their calorie content, enabling users to track their dietary intake and make informed food choices.
 
