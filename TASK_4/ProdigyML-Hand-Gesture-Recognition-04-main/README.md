@@ -41,6 +41,6 @@ The dataset consists of near-infrared images captured by the Leap Motion sensor.
 - **Matplotlib and Seaborn:** Libraries for data visualization.
 
 # Author
-# Viraj N. Bhutada
+# Sudhindra P
 
 This project showcases the successful fusion of advanced technologies and meticulous dataset organization, ensuring a robust foundation for gesture-based human-computer interaction systems. For a detailed exploration of the dataset and its creation, refer to the provided research paper citation. Explore the code and delve into the future of seamless gesture recognition interfaces.
